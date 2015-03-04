@@ -79,12 +79,22 @@ $(document).ready(function(){
 	    };
 	    var $validate = $('#contactForm').validate(formSettings).data('validate');
 	});
+
+	/*acrostic*/
+	$('.acrostic li').on('click', function(){
+		$('.acrostic li').removeClass('active');
+		$(this).addClass('active');
+		$('.meaning').html($(this).attr('data-meaning'));
+	});
 	
 	/*carousel*/
-	$('.home-slider, .about-slider').slick({
+	$('.home-slider').slick({
 		'autoplay':true,
 		'autoplaySpeed': 5000,
 		'arrows':true,
+		'dots':true
+	});
+	$('.about-slider').slick({
 		'dots':true
 	});
 });

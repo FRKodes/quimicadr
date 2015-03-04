@@ -157,6 +157,36 @@ body
 						color white
 					p
 						padding 0 10%
+					.acrostic
+					.meaning
+						display none
+					.acrostic
+						list-style none
+						text-transform uppercase
+						margin-bottom 40px
+						li
+							color white
+							display inline-block
+							font-weight 700
+							height 50px
+							line-height 1em
+							text-align center
+							width 50px
+							&:hover
+								cursor pointer
+							&.active
+								-webkit-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
+								-moz-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
+								box-shadow 0px 0px 26px 6px rgba(0,0,0,.4)
+								transition box-shadow .4s
+					.meaning
+						text-transform uppercase
+						font-style italic
+						font-size 1.8em
+			.slick-dots
+				bottom 0
+				position relative
+				margin-bottom 0
 	.esfuerzos
 		background transparent url(/images/bloque-01.jpg) no-repeat center center
 		background-size cover
@@ -657,6 +687,11 @@ body
 					.item
 						p
 							padding 0 20%
+						p.valores
+							display none
+						.acrostic
+						.meaning
+							display block
 		.angle
 			height 100px
 			.container

@@ -44,7 +44,18 @@
 			</div>
 			<div class="item">
 				<h2>VALORES</h2>
-				<p>SATISFACCION, ETICA, RESPONSABILIDAD, VERDAD, INGENIO, CALIDAD, INNOVACION, ORIGINALIDAD.</p>
+				<p class="valores">SATISFACCION, ETICA, RESPONSABILIDAD, VERDAD, INGENIO, CALIDAD, INNOVACION, ORIGINALIDAD.</p>
+				<ul class="acrostic">
+					<li class="s active" data-meaning="satisfacción">s</li>
+					<li class="e" data-meaning="etica">e</li>
+					<li class="r" data-meaning="responsabilidad">r</li>
+					<li class="v" data-meaning="verdad">v</li>
+					<li class="i" data-meaning="ingenio">i</li>
+					<li class="c" data-meaning="calidad">c</li>
+					<li class="i" data-meaning="innovación">i</li>
+					<li class="o" data-meaning="originalidad">o</li>
+				</ul>
+				<div class="meaning">satisfacción</div>
 			</div>
 		</div>
 	</div>
