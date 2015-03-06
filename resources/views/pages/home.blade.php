@@ -10,13 +10,13 @@
 			<span class="icon-02"></span>
 		</div>
 		<div class="item two">
-			<p class="header">Tenemos la solución que buscas</p>
-			<p class="text">Brindamos soluciones de productos químicos a empresas que se preocupan por cuidar sus instalaciones</p>
+			<p class="header">Obtén un servicio personalizado</p>
+			<p class="text">Desarrollamos productos de acuerdo a la necesidad específica de cada cliente</p>
 			<span class="icon-02"></span>
 		</div>
 		<div class="item three">
-			<p class="header">Tenemos la solución que buscas</p>
-			<p class="text">Brindamos soluciones de productos químicos a empresas que se preocupan por cuidar sus instalaciones</p>
+			<p class="header">Productos de la más alta calidad</p>
+			<p class="text">Nuestros productos cuentan con certificados reconocidos mundialmente</p>
 			<span class="icon-02"></span>
 		</div>
 	</div>
@@ -62,10 +62,8 @@
 </section>
 
 <section class="esfuerzos">
-	<h3>Nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</h3>
-	<p>
-		Siendo uno de nuetros valores agregados, el desarrollo de productos de acuerdo a la necesidad específica de cada cliente, distintivo servicio y atención inmediata.
-	</p>
+	<h3>Sin importar cuál sea el problema, lo podemos solucionar</h3>
+	<p> Siendo uno de nuestros valores agregados, el desarrollo de productos de acuerdo a la necesidad específica de cada cliente, distintivo servicio y atención inmediata. </p>
 </section>
 
 <section class="productos" id="productos">
@@ -76,9 +74,13 @@
 		<li>-Detergentes</li>
 		<li>-Sanitizantes</li>
 		<li>-Químicos Generales</li>
+		<li>-Refacciones</li>
 	</ul>
 
-	<p class="target">Para lavanderias, hopitales, hoteles, restaurantes, cocinas, lavado de garrafones.</p>
+	<p class="target">Para lavanderias, hospitales, hoteles, restaurantes, cocinas y lavado de garrafones.</p>
+	
+	<p class="target">Todos nuestros productos están certificados y cuentan con sus respectivas hojas de seguridad y fichas técnicas.</p>
+
 	<figure>
 		<img src="images/barriles.jpg" width="1000" height="1000" alt="Imagen garrafones productos químicos DR.">
 	</figure>
