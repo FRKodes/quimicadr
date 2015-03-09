@@ -160,29 +160,6 @@ body
 					.acrostic
 					.meaning
 						display none
-					.acrostic
-						list-style none
-						text-transform uppercase
-						margin-bottom 40px
-						li
-							color white
-							display inline-block
-							font-weight 700
-							height 50px
-							line-height 1em
-							text-align center
-							width 50px
-							&:hover
-								cursor pointer
-							&.active
-								-webkit-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
-								-moz-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
-								box-shadow 0px 0px 26px 6px rgba(0,0,0,.4)
-								transition box-shadow .4s
-					.meaning
-						text-transform uppercase
-						font-style italic
-						font-size 1.8em
 			.slick-dots
 				bottom 0
 				position relative
@@ -692,6 +669,43 @@ body
 						.acrostic
 						.meaning
 							display block
+						.acrostic
+							list-style none
+							margin 0 auto 40px auto
+							text-transform uppercase
+							width 960px
+							li
+								display block
+								text-align left
+								.capital
+									color white
+									display inline-block
+									font-weight 700
+									height 45px
+									line-height 1.3em
+									padding-top 0
+									text-align center
+									vertical-align middle
+									width 45px
+									&:hover
+										cursor pointer
+									&.active
+										-moz-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
+										-webkit-box-shadow 0px 0px 26px 6px rgba(0,0,0,0.4)
+										box-shadow 0px 0px 26px 6px rgba(0,0,0,.4)
+										transition box-shadow .4s
+								.word
+									display inline-block
+									font-size .7em
+									text-transform none
+								.meaning
+									display inline-block
+									display none
+									font-size .5em
+									font-style italic
+									margin-left 55px
+									margin-top -10px
+									text-transform none
 		.angle
 			height 100px
 			.container
@@ -717,8 +731,15 @@ body
 			height 500px
 		.slick-dots
 			bottom 50px
-		.about .blue-container .about-slider .item
-			font-size 1.6em
+		.about
+			.blue-container
+				.about-slider
+					.item
+						font-size 1.6em
+						.acrostic
+							li
+								.capital
+									height 55px
 		.angle
 			height 210px
 			.container

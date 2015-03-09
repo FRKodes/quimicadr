@@ -45,7 +45,7 @@
 			<div class="item">
 				<h2>VALORES</h2>
 				<p class="valores">SATISFACCION, ETICA, RESPONSABILIDAD, VERDAD, INGENIO, CALIDAD, INNOVACION, ORIGINALIDAD.</p>
-				<ul class="acrostic">
+				{{-- <ul class="acrostic">
 					<li class="s active" data-meaning="satisfacción">s</li>
 					<li class="e" data-meaning="etica">e</li>
 					<li class="r" data-meaning="responsabilidad">r</li>
@@ -55,7 +55,50 @@
 					<li class="i" data-meaning="innovación">i</li>
 					<li class="o" data-meaning="originalidad">o</li>
 				</ul>
-				<div class="meaning">satisfacción</div>
+				<div class="meaning">satisfacción</div> --}}
+
+				<ul class="acrostic">
+					<li class="s">
+						<div class="capital active" data-meaning="satisfaccion">s</div>
+						<div class="word">atisfacción</div>
+						<div class="meaning satisfaccion" style="display:inline-block">Es el grado de conformidad de la persona respecto a su entorno de trabajo. La satisfacción laboral incluye la consideración de la remuneración, el tipo de trabajo, las relaciones humanas, la seguridad, etc.</div>
+					</li>
+					<li class="e">
+						<div class="capital" data-meaning="etica">e</div>
+						<div class="word">tica</div>
+						<div class="meaning etica">Es una declaración moral que elabora afirmaciones y define lo que es bueno, malo, obligatorio, permitido, etc. en lo referente a una acción o a una decisión.</div>
+					</li>
+					<li class="r">
+						<div class="capital" data-meaning="responsabilidad">r</div>
+						<div class="word">esponsabilidad</div>
+						<div class="meaning responsabilidad">Es un valor que está en la conciencia de la persona, que le permite reflexionar, administrar, orientar y valorar las consecuencias de sus actos, siempre en el plano de lo moral.</div>
+					</li>
+					<li class="v">
+						<div class="capital" data-meaning="verdad">v</div>
+						<div class="word">erdad</div>
+						<div class="meaning verdad">Desde la honestidad, la buena fe y la sinceridad humana en general, hasta el acuerdo de losconocimientos con las cosas que se afirman como realidades: los hechos o la cosa en particular;[2] así como la relación de los hechos o las cosas en su totalidad en la constitución del todo.</div>
+					</li>
+					<li class="i">
+						<div class="capital" data-meaning="ingenio">i</div>
+						<div class="word">ngenio</div>
+						<div class="meaning ingenio">Es la generación de nuevas ideas o conceptos, o de nuevas asociaciones entre ideas y conceptos conocidos, que habitualmente producen soluciones originales.</div>
+					</li>
+					<li class="c">
+						<div class="capital" data-meaning="calidad">c</div>
+						<div class="word">alidad</div>
+						<div class="meaning calidad">Es una herramienta básica para una propiedad inherente de cualquier cosa que permite que la misma sea comparada con cualquier otra de su misma especie.</div>
+					</li>
+					<li class="i">
+						<div class="capital" data-meaning="innovación">i</div>
+						<div class="word">nnovación</div>
+						<div class="meaning innovación">se utiliza de manera específica en el sentido de nuevas propuestas, inventos y su implementación económica</div>
+					</li>
+					<li class="o">
+						<div class="capital" data-meaning="originalidad">o</div>
+						<div class="word">riginalidad</div>
+						<div class="meaning originalidad">Es la cualidad de las obras creadas o inventadas que las hace ser nuevas o novedosas, son únicas y que las distingue de las copias, las falsificaciones, los plagios o las obras derivadas.</div>
+					</li>
+				</ul>
 			</div>
 		</div>
 	</div>

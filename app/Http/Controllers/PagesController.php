@@ -20,7 +20,7 @@ class PagesController extends Controller {
 	public function sendmail()
 	{
 		Mail::send('emails.contacto', [], function($message){
-			$message->to('frkalderon@gmail.com')->subject('Química DR contacto');
+			$message->to('direccion@quimicadr.com')->cc('administracion@quimicadr.com')->subject('Química DR contacto');
 		});
 	}
 

@@ -81,10 +81,11 @@ $(document).ready(function(){
 	});
 
 	/*acrostic*/
-	$('.acrostic li').on('click', function(){
-		$('.acrostic li').removeClass('active');
+	$('.acrostic .capital').on('click', function(){
+		$('.acrostic .capital').removeClass('active');
 		$(this).addClass('active');
-		$('.meaning').html($(this).attr('data-meaning'));
+		$('.meaning').hide();
+		$('.'+ $(this).attr('data-meaning')).show();
 	});
 	
 	/*carousel*/
