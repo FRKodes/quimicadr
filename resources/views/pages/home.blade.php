@@ -193,7 +193,7 @@
 </section>
 
 <secttion class="buscamos">
-	<p>Buscamos que cada uno de nuestros clientes esten satisfechos con nuestros productos y servicio que brindamos, y posicionarnos como líderes en el mercado.</p>
+	<p>Buscamos que cada uno de nuestros clientes estén satisfechos con nuestros productos y servicios que brindamos, y posicionarnos como líderes en el mercado.</p>
 </secttion>
 
 <section class="certificados" id="certificados">
