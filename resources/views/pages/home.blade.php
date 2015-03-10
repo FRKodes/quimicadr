@@ -37,10 +37,12 @@
 			<div class="item">
 				<h2>Misión</h2>
 				<p>Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</p>
+				<figure class="image"><img src="images/mision-image.png" width="350" height="350" alt="mision image"></figure>
 			</div>
 			<div class="item">
 				<h2>VISIÓN</h2>
 				<p>Ser reconocidos como una empresa de calidad que cada uno de nuestros clientes están satisfechos con nuestros productos y servicio que brindamos y así ellos mismos no recomienden en el mercado.</p>
+				<figure class="image"><img src="images/vision-image.png" width="350" height="350" alt="vision image"></figure>
 			</div>
 			<div class="item">
 				<h2>VALORES</h2>
