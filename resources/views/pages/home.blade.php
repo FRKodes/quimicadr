@@ -41,7 +41,7 @@
 			</div>
 			<div class="item">
 				<h2>VISIÓN</h2>
-				<p>Ser reconocidos como una empresa de calidad que cada uno de nuestros clientes están satisfechos con nuestros productos y servicio que brindamos y así ellos mismos no recomienden en el mercado.</p>
+				<p>Ser reconocidos como una empresa de calidad y que cada uno de nuestros clientes estén satisfechos con nuestros productos y servicios que brindamos y así ellos mismos nos recomienden en el mercado.</p>
 				<figure class="image"><img src="images/vision-image.png" width="350" height="350" alt="vision image"></figure>
 			</div>
 			<div class="item">
