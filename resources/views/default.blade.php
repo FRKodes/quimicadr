@@ -16,5 +16,6 @@
 	</footer>
 	
 	@include('partials.scripts')
+	@include('partials.googleAnalytics')
 </body>
 </html>
