@@ -122,7 +122,7 @@
 		<li>-Refacciones</li>
 	</ul>
 
-	<p class="target">Para lavanderias, hospitales, hoteles, restaurantes, cocinas y lavado de garrafones.</p>
+	<p class="target">Para lavanderías, hospitales, hoteles, restaurantes, cocinas y lavado de garrafones.</p>
 	
 	<p class="target">Todos nuestros productos están certificados y cuentan con sus respectivas hojas de seguridad y fichas técnicas.</p>
 
@@ -199,7 +199,7 @@
 <section class="certificados" id="certificados">
 	<h2>Certificados</h2>
 	<p>
-		Nuestros productos vienen respaldados por importantes productoras como INDUSTRIA QUÍMICA ADMEX y QUIMICOGA. Las cuales cuentan con diversos certificados reconocios mundialmente.
+		Nuestros productos vienen respaldados por importantes productoras como INDUSTRIA QUÍMICA ADMEX y QUIMICOGA. Las cuales cuentan con diversos certificados reconocidos mundialmente.
 	</p>
 	<div class="container">
 		<div class="col">
@@ -239,7 +239,7 @@
 		</figure>
 	</div>
 	
-	<p>Gracias por ponerte en contacto con el equipo de Química DR. Déjanos tu mensaje y te reponderemos a la brevedad.</p>
+	<p>Gracias por ponerte en contacto con el equipo de Química DR. Déjanos tu mensaje y te responderemos a la brevedad.</p>
 	
 	<div class="form">
 		
