@@ -77,6 +77,28 @@ body
 			margin 20px 20px 0 0
 			transform rotate(0deg)
 			transition all .2s
+	.logo-banner
+		position absolute
+		display block
+		left 50%
+		margin-left -160px
+		width 320px
+		top 90px
+		text-align center
+		z-index 2
+		figure
+			width 70px
+			height auto
+			position relative
+			margin 0 auto 5px auto
+			img
+				width 100%
+				height auto
+				display block
+		p
+			color white
+			font-size 1.8em
+			text-transform uppercase
 	.home-slider
 		display block
 		height auto
@@ -86,8 +108,8 @@ body
 		.item
 			background-size cover
 			color white
-			height 460px
-			padding-top 60px
+			height 500px
+			padding-top 120px
 			text-align center
 			&.one
 				background transparent url(/images/banner-01.jpg) no-repeat center center
@@ -182,10 +204,13 @@ body
 		h3
 			margin-bottom 40px
 	.productos
+		background transparent url(/images/barriles-small-size.jpg) no-repeat right top
 		h2
 			font-size 1.6em
 			margin-left auto
 			margin-right auto
+			margin-top 0
+			padding-top 20px
 			width 90%
 		ul
 			list-style none
@@ -438,7 +463,7 @@ body
 	body
 		.home-slider
 			.item
-				padding-top 100px
+				padding-top 140px
 		.about
 			background transparent url(/images/quimica-imagen-mid.jpg) no-repeat right 120px
 			ul
@@ -463,6 +488,7 @@ body
 				line-height 1.5em
 		.productos
 			position relative
+			background transparent url(/images/barriles-mid-size.jpg) no-repeat right top
 			h2
 				font-size 1.8em
 			ul
@@ -554,7 +580,13 @@ body
 							color white
 					a
 						border-top none
+		.logo-banner
+			figure
+				width 120px
+			p
 		.home-slider .item
+			padding-top 165px
+			height 510px
 			p.header
 				width 50%
 			p.text
@@ -581,6 +613,7 @@ body
 		.productos
 			position relative
 			overflow hidden
+			background transparent url(/images/barriles-big-size.jpg) no-repeat right top
 			h2
 				font-size 2em
 				margin-top 40px

@@ -3,6 +3,10 @@
 @section('content')
 
 <section>
+	<div class="logo-banner">
+		<figure><img src="images/logo-dr-banners.png" alt="Logo Química DR banners"></figure>
+		<p>industria química DR</p>
+	</div>
 	<div class="home-slider" id="inicio">
 		<div class="item one">
 			<p class="header">Tenemos la solución que buscas</p>
@@ -125,10 +129,6 @@
 	<p class="target">Para lavanderías, hospitales, hoteles, restaurantes, cocinas y lavado de garrafones.</p>
 	
 	<p class="target">Todos nuestros productos están certificados y cuentan con sus respectivas hojas de seguridad y fichas técnicas.</p>
-
-	<figure>
-		<img src="images/barriles.jpg" width="1000" height="1000" alt="Imagen garrafones productos químicos DR.">
-	</figure>
 	
 	<p class="catalogos">Descarga nuestros catálogos de productos</p>
 
@@ -145,19 +145,6 @@
 
 	<div class="blocks-container">
 		<div class="col">
-			<figure><img src="images/logo-quimicoga.jpg" width="400" height="169" alt="logo quimicoga"></figure>
-			<ul>
-				<li><a href="pdf/quimicoga/aditivo-para-lavado-de-botella.pdf" target="_blank">- Aditivos para lavado de botellas</a></li>
-				<li><a href="pdf/quimicoga/detergente-para-lavado-de-garrafon.pdf" target="_blank">- Detergentes para lavado de garrafón</a></li>
-				<li><a href="pdf/quimicoga/detergentes-de-cocina.pdf" target="_blank">- Detergentes de cocina</a></li>
-				<li><a href="pdf/quimicoga/detergentes-y-lavanderia.pdf" target="_blank">- Detergentes y lavandería</a></li>
-				<li><a href="pdf/quimicoga/detergentes-y-sanitizantes-cip.pdf" target="_blank">- Detergentes y sanitizantes para equipos CIP</a></li>
-				<li><a href="pdf/quimicoga/lubricantes-para-transportador-de-tablillas.pdf" target="_blank">- Lubricantes para transportador de tablillas</a></li>
-				<li><a href="pdf/quimicoga/productos-para-equipos-de-aguas.pdf" target="_blank">- Productos químicos para equipos de aguas</a></li>
-				<li><a href="pdf/quimicoga/productos-quimicos-generales-para-limpieza.pdf" target="_blank">- Productos químicos generales para limpieza</a></li>
-			</ul>
-		</div>
-		<div class="col">
 			<figure><img class="admex" src="images/logo-admex.jpg" width="200" height="178" alt="logo admex"></figure>
 			<ul>
 				<li><a href="pdf/admex/aditivo-para-lavado-de-botellas-de-plastico-y-vidrio.pdf" target="_blank">- Lubricantes</a></li>
@@ -170,6 +157,19 @@
 				<li><a href="pdf/admex/productos-quimicos-generales-de-mantenimiento.pdf" target="_blank">- Productos para Restaurantes y Cocinas</a></li>
 				<li><a href="pdf/admex/productos-quimicos-para-tratamiento-de-aguas.pdf" target="_blank">- Espumas Sanitizantes </a></li>
 				<li><a href="pdf/admex/sanitizantes-para-sistemas-cip-y-generales.pdf" target="_blank">- Lavado de Garrafones</a></li>
+			</ul>
+		</div>
+		<div class="col">
+			<figure><img src="images/logo-quimicoga.jpg" width="400" height="169" alt="logo quimicoga"></figure>
+			<ul>
+				<li><a href="pdf/quimicoga/aditivo-para-lavado-de-botella.pdf" target="_blank">- Aditivos para lavado de botellas</a></li>
+				<li><a href="pdf/quimicoga/detergente-para-lavado-de-garrafon.pdf" target="_blank">- Detergentes para lavado de garrafón</a></li>
+				<li><a href="pdf/quimicoga/detergentes-de-cocina.pdf" target="_blank">- Detergentes de cocina</a></li>
+				<li><a href="pdf/quimicoga/detergentes-y-lavanderia.pdf" target="_blank">- Detergentes y lavandería</a></li>
+				<li><a href="pdf/quimicoga/detergentes-y-sanitizantes-cip.pdf" target="_blank">- Detergentes y sanitizantes para equipos CIP</a></li>
+				<li><a href="pdf/quimicoga/lubricantes-para-transportador-de-tablillas.pdf" target="_blank">- Lubricantes para transportador de tablillas</a></li>
+				<li><a href="pdf/quimicoga/productos-para-equipos-de-aguas.pdf" target="_blank">- Productos químicos para equipos de aguas</a></li>
+				<li><a href="pdf/quimicoga/productos-quimicos-generales-para-limpieza.pdf" target="_blank">- Productos químicos generales para limpieza</a></li>
 			</ul>
 		</div>
 		<div class="col">
