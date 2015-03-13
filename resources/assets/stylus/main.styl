@@ -167,23 +167,31 @@ body
 			background-color back_color
 			margin-left -10%
 			margin-top 30px
-			padding 30px 0 60px 0
+			padding 30px 0 20px 0
 			transform rotate(-3deg)
 			width 120%
 			.about-slider
 				transform rotate(3deg)
+				background transparent url(/images/back_mision_sm.jpg) repeat-x center bottom
+				margin-bottom 0
 				.item
 					color white
 					text-align center
 					.image
-						width 350px
-						height 350px
-						display none
-						margin 100px auto 0 auto
+						display inline-block
+						height auto
+						margin 0
+						width 40%
+						img
+							width 100%
+							height auto
+							display block
 					h2
 						color white
 					p
 						padding 0 10%
+						width 90%
+						display inline-block
 					.acrostic
 					.meaning
 						display none
@@ -602,7 +610,26 @@ body
 					font-size 1.8em
 					font-weight 400
 			.blue-container
-				padding-bottom 100px
+				padding-bottom 80px
+				.about-slider
+					height 450px
+					.item
+						height auto
+						.inner-container
+							height auto
+							display block
+							.image
+								vertical-align middle
+								width 25%
+								img
+									margin 0 auto
+							p
+								bottom 10%
+								padding-left 0
+								padding-right 0
+								position relative
+								vertical-align middle
+								width 50%
 		.esfuerzos
 			padding 100px 6%
 			margin-top -80px
@@ -696,16 +723,21 @@ body
 			ul
 				width 70%
 			.blue-container
-				padding-bottom 140px
+				padding-bottom 80px
 				.about-slider
+					height 800px
 					padding-top 60px
+					background transparent url(/images/back_mision_lg.jpg) repeat-x center bottom
 					.item
-						.image
-							display block
-						p
-							padding 0 20%
-						p.valores
-							display none
+						.inner-container
+							padding-top 100px
+							.image
+								width 20%
+							p
+								padding 0
+								width 50%
+							p.valores
+								display none
 						.acrostic
 						.meaning
 							display block
@@ -774,6 +806,7 @@ body
 		.about
 			.blue-container
 				.about-slider
+					height 1000px
 					.item
 						font-size 1.6em
 						.acrostic

@@ -40,29 +40,21 @@
 		<div class="about-slider">
 			<div class="item">
 				<h2>Misión</h2>
-				<p>Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</p>
-				<figure class="image"><img src="images/mision-image.png" width="350" height="350" alt="mision image"></figure>
+				<div class="inner-container">
+					<figure class="image"><img src="images/imagen-mision.png" width="350" height="350" alt="mision image"></figure>
+					<p>Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</p>
+				</div>
 			</div>
-			<div class="item">
+			<div class="item vision">
 				<h2>VISIÓN</h2>
-				<p>Ser reconocidos como una empresa de calidad y que cada uno de nuestros clientes estén satisfechos con nuestros productos y servicios que brindamos y así ellos mismos nos recomienden en el mercado.</p>
-				<figure class="image"><img src="images/vision-image.png" width="350" height="350" alt="vision image"></figure>
+				<div class="inner-container">
+					<figure class="image"><img src="images/imagen-vision.png" width="350" height="350" alt="vision image"></figure>
+					<p>Ser reconocidos como una empresa de calidad y que cada uno de nuestros clientes estén satisfechos con nuestros productos y servicios que brindamos y así ellos mismos nos recomienden en el mercado.</p>
+				</div>
 			</div>
 			<div class="item">
 				<h2>VALORES</h2>
 				<p class="valores">SATISFACCION, ETICA, RESPONSABILIDAD, VERDAD, INGENIO, CALIDAD, INNOVACION, ORIGINALIDAD.</p>
-				{{-- <ul class="acrostic">
-					<li class="s active" data-meaning="satisfacción">s</li>
-					<li class="e" data-meaning="etica">e</li>
-					<li class="r" data-meaning="responsabilidad">r</li>
-					<li class="v" data-meaning="verdad">v</li>
-					<li class="i" data-meaning="ingenio">i</li>
-					<li class="c" data-meaning="calidad">c</li>
-					<li class="i" data-meaning="innovación">i</li>
-					<li class="o" data-meaning="originalidad">o</li>
-				</ul>
-				<div class="meaning">satisfacción</div> --}}
-
 				<ul class="acrostic">
 					<li class="s">
 						<div class="capital active" data-meaning="satisfaccion">s</div>
