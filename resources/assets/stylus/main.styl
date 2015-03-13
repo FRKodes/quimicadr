@@ -135,8 +135,16 @@ body
 				font-size 2.6em
 	.slick-prev
 	.slick-next
-		display none
-		
+		display block
+		height 33px
+		top 200px
+		width 33px
+	.slick-next
+		right 20px
+		transform rotate(-90deg)
+	.slick-prev
+		left 20px
+		transform rotate(90deg)
 	.slick-dots
 		bottom 20px
 		width 100%
@@ -174,6 +182,18 @@ body
 				transform rotate(3deg)
 				background transparent url(/images/back_mision_sm.jpg) repeat-x center bottom
 				margin-bottom 0
+				.slick-prev
+				.slick-next
+					display block
+					height 33px
+					top 200px
+					width 33px
+				.slick-next
+					right 70px
+					transform rotate(-90deg)
+				.slick-prev
+					left 70px
+					transform rotate(90deg)
 				.item
 					color white
 					text-align center
@@ -483,6 +503,13 @@ body
 					padding-top 10px
 			.blue-container
 				.about-slider
+					.slick-prev
+					.slick-next
+						top 200px
+					.slick-next
+						right 100px
+					.slick-prev
+						left 100px
 					.item
 						font-size 1.3em
 						font-smoothing antialiased
@@ -712,7 +739,17 @@ body
 					top 0
 @media screen and (min-width:1000px)
 	body
+		.slick-next
+		.slick-prev
+			width 100px
+			height 100px
+			&.icon-02::before
+				font-size -webkit-xxx-large
 		.home-slider
+			.slick-next
+				right 12%
+			.slick-prev
+				left 12%
 			.item
 				p.header
 					width 38%
@@ -728,6 +765,15 @@ body
 					height 800px
 					padding-top 60px
 					background transparent url(/images/back_mision_lg.jpg) repeat-x center bottom
+					.slick-prev
+					.slick-next
+						top 350px
+						width 60px
+						height 60px
+					.slick-next
+						right 10%
+					.slick-prev
+						left 10%
 					.item
 						.inner-container
 							padding-top 100px

@@ -39,7 +39,7 @@
 	<div class="blue-container">
 		<div class="about-slider">
 			<div class="item">
-				<h2>Misión</h2>
+				<h2>MISIÓN</h2>
 				<div class="inner-container">
 					<figure class="image"><img src="images/imagen-mision.png" width="350" height="350" alt="mision image"></figure>
 					<p>Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</p>

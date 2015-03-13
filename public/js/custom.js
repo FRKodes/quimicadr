@@ -96,6 +96,7 @@ $(document).ready(function(){
 		'dots':true
 	});
 	$('.about-slider').slick({
-		'dots':true
+		'dots':true,
+		'arrows':true
 	});
 });
