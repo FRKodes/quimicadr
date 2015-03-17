@@ -224,7 +224,7 @@
 	
 	<div class="mapa">
 		<figure>
-			<a href="https://www.google.com.mx/maps/search/Industria+del+Vestido+2206/@20.7435071,-103.3881059,19z?hl=es-419" title="Clic par ver el mapa más grande">
+			<a href="https://www.google.com.mx/maps/search/Industria+del+Vestido+2206/@20.7435071,-103.3881059,19z?hl=es-419" target="_blank" title="Clic par ver el mapa más grande">
 				<img class="sm" src="images/mapa-dr.jpg" width="480" height="200" alt="Mapa DR">
 				<img class="lg" src="images/mapa-dr-lg.jpg" width="1000" height="244" alt="Mapa DR">
 			</a>
