@@ -189,7 +189,7 @@
 </secttion>
 
 <section class="certificados" id="certificados">
-	<h2>Certificados</h2>
+	<h2>Certificados de calidad</h2>
 	<p>
 		Nuestros productos vienen respaldados por importantes productoras como INDUSTRIA QUÍMICA ADMEX y QUIMICOGA. Las cuales cuentan con diversos certificados reconocidos mundialmente.
 	</p>
