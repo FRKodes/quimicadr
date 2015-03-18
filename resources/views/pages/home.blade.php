@@ -234,9 +234,6 @@
 	<p>Gracias por ponerte en contacto con el equipo de Química DR. Déjanos tu mensaje y te responderemos a la brevedad.</p>
 	
 	<div class="form">
-		
-		{{-- Mandrill {{ getenv('MANDRILL_SECRET')}} --}}
-
 		{!! Form::open(['url'=>'sendmail', 'id'=>'contactForm'])!!}
 			<div class="lines-container">
 				<div class="line">{!! Form::text('name', null, ['class'=>'input_text', 'name'=>'name', 'placeholder'=>'Nombre', 'maxlength'=>'50', 'data-validate'=>'required']) !!}</div>
