@@ -80,6 +80,13 @@ $(document).ready(function(){
 	    var $validate = $('#contactForm').validate(formSettings).data('validate');
 	});
 
+	/**
+	 * pdf buttons
+	 */
+	$('a.more-btn').on('click', function (){
+		$('ul.' + $(this).attr('list-modificator')).toggleClass('disappeared');
+	});
+
 	/*acrostic*/
 	$('.acrostic .capital').on('click', function(){
 		$('.acrostic .capital').removeClass('active');

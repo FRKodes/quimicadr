@@ -108,76 +108,124 @@
 </section>
 
 <section class="productos" id="productos">
-	<h2>Productos</h2>
-	<ul class="first-list">
-		<li>-Lubricantes</li>
-		<li>-Aditivos</li>
-		<li>-Detergentes</li>
-		<li>-Sanitizantes</li>
-		<li>-Químicos Generales</li>
-		<li>-Refacciones</li>
-	</ul>
-
-	<p class="target">Para lavanderías, hospitales, hoteles, restaurantes, cocinas y lavado de garrafones.</p>
-	
-	<p class="target">Todos nuestros productos están certificados y cuentan con sus respectivas hojas de seguridad y fichas técnicas.</p>
-	
-	<p class="catalogos">Descarga nuestros catálogos de productos</p>
-
-	<ul class="prods">
-		<li><a href="pdf/quimicoga/aditivo-para-lavado-de-botella.pdf" target="_blank">- Aditivos para lavado de botellas</a></li>
-		<li><a href="pdf/quimicoga/detergente-para-lavado-de-garrafon.pdf" target="_blank">- Detergentes para lavado de garrafón</a></li>
-		<li><a href="pdf/quimicoga/detergentes-de-cocina.pdf" target="_blank">- Detergentes de cocina</a></li>
-		<li><a href="pdf/quimicoga/detergentes-y-lavanderia.pdf" target="_blank">- Detergentes y lavandería</a></li>
-		<li><a href="pdf/quimicoga/detergentes-y-sanitizantes-cip.pdf" target="_blank">- Detergentes y sanitizantes para equipos CIP</a></li>
-		<li><a href="pdf/quimicoga/lubricantes-para-transportador-de-tablillas.pdf" target="_blank">- Lubricantes para transportador de tablillas</a></li>
-		<li><a href="pdf/quimicoga/productos-para-equipos-de-aguas.pdf" target="_blank">- Productos químicos para equipos de aguas</a></li>
-		<li><a href="pdf/quimicoga/productos-quimicos-generales-para-limpieza.pdf" target="_blank">- Productos químicos generales para limpieza</a></li>
-	</ul>
-
-	<div class="blocks-container">
-		<div class="col">
-			<figure><img class="admex" src="images/logo-admex.jpg" width="200" height="178" alt="logo admex"></figure>
-			<ul>
-				<li><a href="pdf/admex/aditivo-para-lavado-de-botellas-de-plastico-y-vidrio.pdf" target="_blank">- Lubricantes</a></li>
-				<li><a href="pdf/admex/detergentes-lavado-garrafones.pdf" target="_blank">- Aditivos</a></li>
-				<li><a href="pdf/admex/detergentes-para-sistemas-cip.pdf" target="_blank">- Detergentes</a></li>
-				<li><a href="pdf/admex/espumas-sanitizantes.pdf" target="_blank">- Sanitizantes</a></li>
-				<li><a href="pdf/admex/lubricantes-para-transportadores-de-tablillas.pdf" target="_blank">- Químicos para aguas</a></li>
-				<li><a href="pdf/admex/productos-para-lavanderias-hospitales-hoteles.pdf" target="_blank">- Químicos Generales</a></li>
-				<li><a href="pdf/admex/productos-para-restaurantes-cocinas-insdutriales.pdf" target="_blank">- Lavanderías, Hospitales y Hoteles</a></li>
-				<li><a href="pdf/admex/productos-quimicos-generales-de-mantenimiento.pdf" target="_blank">- Productos para Restaurantes y Cocinas</a></li>
-				<li><a href="pdf/admex/productos-quimicos-para-tratamiento-de-aguas.pdf" target="_blank">- Espumas Sanitizantes </a></li>
-				<li><a href="pdf/admex/sanitizantes-para-sistemas-cip-y-generales.pdf" target="_blank">- Lavado de Garrafones</a></li>
-			</ul>
-		</div>
-		<div class="col">
-			<figure><img src="images/logo-quimicoga.jpg" width="400" height="169" alt="logo quimicoga"></figure>
-			<ul>
-				<li><a href="pdf/quimicoga/aditivo-para-lavado-de-botella.pdf" target="_blank">- Aditivos para lavado de botellas</a></li>
-				<li><a href="pdf/quimicoga/detergente-para-lavado-de-garrafon.pdf" target="_blank">- Detergentes para lavado de garrafón</a></li>
-				<li><a href="pdf/quimicoga/detergentes-de-cocina.pdf" target="_blank">- Detergentes de cocina</a></li>
-				<li><a href="pdf/quimicoga/detergentes-y-lavanderia.pdf" target="_blank">- Detergentes y lavandería</a></li>
-				<li><a href="pdf/quimicoga/detergentes-y-sanitizantes-cip.pdf" target="_blank">- Detergentes y sanitizantes para equipos CIP</a></li>
-				<li><a href="pdf/quimicoga/lubricantes-para-transportador-de-tablillas.pdf" target="_blank">- Lubricantes para transportador de tablillas</a></li>
-				<li><a href="pdf/quimicoga/productos-para-equipos-de-aguas.pdf" target="_blank">- Productos químicos para equipos de aguas</a></li>
-				<li><a href="pdf/quimicoga/productos-quimicos-generales-para-limpieza.pdf" target="_blank">- Productos químicos generales para limpieza</a></li>
-			</ul>
-		</div>
-		<div class="col">
-			<figure><img class="suplementos" src="images/logo-suplementos-mineros.jpg" width="200" height="150" alt="logo suplementos mineros"></figure>
-			<ul>
-				<li><a href="pdf/suplementos-mineros/smi-catalogo.pdf" target="_blank">- Sistemas de filtrado, elementos filtrantes de diferentes grados, para uso hidráulico, neumático, instrumental y sanitario.</a></li>
-			</ul>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<img src="images/logotipo-quimicoga.jpg" class="logo-quimicoga" alt="logotipo quimicoga">
+			</div>
+			<p class="text">
+				Estamos comprometidos con el servicio y sabemos
+				que la asesoría es fundamental para la mejora de
+				los procesos de nuestros clientes.
+				<br><br>
+				Por ello en nuestro departamento de Proyectos
+				de Limpieza Industrial, QuimiCogaDR, desarrolla-
+				mos productos de la más alta calidad.
+			</p>
 		</div>
 	</div>
 
-	<div class="more">
-		<a href="#more" title="Ver más productos">
-			<span class="txt">Ver </span><br>
-			<span class="icon-02 down"></span>
-		</a>
+	<div class="container-fluid laboratorio">
+		<div class="container">
+			
+
+			<div class="col-xs-12 white-back">
+				<div class="row">
+					<div class="col-sm-6">
+						<ul class="product-list">
+							<li><a target="_blank" href="pdf/generales/01-02-lubricantes-para-transportador-de tablillas.pdf">- Lubricantes para transportador de tablillas, sistema en seco para Tetra Pack y Pet.</a></li>
+							<li><a target="_blank" href="pdf/generales/01-02-lubricantes-para-transportador-de tablillas.pdf">- Lubricantes para transportador de tablillas de naturaleza orgánico</a></li>
+							<li><a target="_blank" href="pdf/generales/03-aditivos-para-lavado-de-botella.pdf">- Aditivos para lavado de botella</a></li>
+							<li><a target="_blank" href="pdf/generales/04-detergentes-de-lavado-de-garrafon.pdf">- Detergentes para lavado de garrafón</a></li>
+							<li><a target="_blank" href="pdf/generales/05-06-detergentes-acidos-y-alcalinos-para-cip.pdf">- Detergentes Alcalinos para CIP</a>
+								<ul>
+									<li>· Alcalinos.</li>
+							   		<li>· Alcalinos clorados.</li>
+								</ul>
+							</li>
+							<li><a href="#">- Detergentes ácidos para CIP</a></li>
+						</ul>
+						
+					</div>
+					<div class="col-sm-6">
+						<ul class="product-list">
+							<li><a target="_blank" href="pdf/generales/07-sanitizantes-para-cip.pdf">- Sanitizantes</a>
+								<ul>
+								   <li>· Ácido peracético.</li>
+								   <li>· Clorados.</li>
+								   <li>· Aldehidos.</li>
+								   <li>· Cuaternarios de amonio.</li>
+								</ul>
+							</li>
+							
+							<li>- Desinfectantes</li>
+							 
+							<li>- Productos de alta espuma
+								<ul>
+								   <li>· Alcalinos</li>
+								   <li>· Ácidos</li>
+								</ul>
+							</li>
+							
+							<li><a target="_blank" href="pdf/generales/10-quimicos-generales.pdf">- Químicos generales.</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			
+			<div class="col-xs-12">
+				
+				<div class="row">
+					
+					<div class="col-sm-6 ">
+						<div class="btn-view-pdfs one">
+								<p>Productos enfocados en el sector institucional, hotelero, restaurantero, escolar y limpieza de oficinas.</p>
+								<ul class="limpieza disappeared">
+									<li><a target="_blank" href="pdf/limpieza/01-productos-para-lavanderias-hospitales-y-hoteles.pdf">- Productos para lavanderias hospitales y hoteles</a></li>
+									<li><a target="_blank" href="pdf/limpieza/09-productos-quimicos para-tratamiento-de-aguas.pdf">- Productos quimicos para tratamiento de aguas</a></li>
+									<li><a target="_blank" href="pdf/limpieza/catalogo-lavanderia.pdf">- Catálogo lavanderia</a></li>
+									<li><a target="_blank" href="pdf/limpieza/catalogo-prouctos-para-aguas.pdf">- Catálogo prouctos para aguas</a></li>
+
+
+									{{-- <li><a class="" target="_blank" href="pdf/limpieza/lubricantes-para-transportador-de-tablillas.pdf">- Lubricantes para transportador de tablillas</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/aditivos-para-lavado-de-botella.pdf">- Aditivos para lavado de botella</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/detergentes-de-lavado-de-garrafon.pdf">- Detergentes de lavado de garrafon</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/detergentes-acidos-y-alcalinos-para-cip.pdf">- Detergentes acidos y alcalinos para cip</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/sanitizantes-para-cip.pdf">- Sanitizantes para cip</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/espumas-sanitizantes.pdf">- Espumas sanitizantes</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/quimicos-generales.pdf">- Quimicos generales</a></li>
+									<li><a class="" target="_blank" href="pdf/limpieza/productos-quimicos-para-tratamiento-de-aguas.pdf">- Productos quimicos para tratamiento de aguas</a></li> --}}
+								</ul>
+							<a class="more-btn" href="#nothin" list-modificator="limpieza">
+								<span class="bottom">Ver más</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="btn-view-pdfs two">
+								<p>Productos enfocados en el sector productor y empacadora de alimentos</p>
+								<ul class="alimentos disappeared">
+									<li><a target="_blank" href="pdf/alimentos-y-cocina/catalogo-cocina.pdf">- Catálogo cocina</a></li>
+									<li><a target="_blank" href="pdf/alimentos-y-cocina/desengrasantes-desincrustantes-detergentes-multiusos.pdf">- Desengrasantes desincrustantes detergentes multiusos</a></li>
+								</ul>
+							<a class="more-btn" href="#nothin" list-modificator="alimentos">
+								<span class="bottom">Ver más</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+		
+
+
 	</div>
+
+
+	
 </section>
 
 <section class="angle">

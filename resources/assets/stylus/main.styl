@@ -5,6 +5,10 @@ line_color = #2D85B5
 txt_color = #2B84C6
 back_color = #2986C3
 
+.white-back
+	background white
+	padding-top 20px
+	padding-bottom 20px
 h2
 	color txt_color
 	background-color transparent
@@ -232,7 +236,12 @@ body
 		h3
 			margin-bottom 40px
 	.productos
-		background transparent url(/images/barriles-small-size.jpg) no-repeat right top
+		background none
+		img.logo-quimicoga
+			margin 30px auto 0 15px
+			width 250px
+			height auto
+			display inline-block
 		h2
 			font-size 1.6em
 			margin-left auto
@@ -255,6 +264,54 @@ body
 				display block
 				height auto
 				width 100%
+		.product-list
+			text-align left
+			li
+				margin-bottom 15px
+				a
+					color black
+				ul
+					font-size 1em
+		.laboratorio
+			background transparent url(../../images/imagen-laboratorio.jpg) no-repeat center top
+			background-size cover
+			padding-bottom 50px
+			padding-top 30px
+			a
+				color white
+			p
+				font-size 1em
+				padding 0 20px !important
+			.btn-view-pdfs
+				margin-top 20px
+				padding-top 10px
+				text-align center
+				font-size 1.4em
+				color white
+				p
+					margin-top 10px
+				span.bottom
+					display block
+					text-align right
+					padding 10px
+					margin-top 20px
+				ul
+					text-align left
+					font-size 1em
+					height auto
+					transition all 1s ease
+					&.disappeared
+						height 0
+						overflow hidden
+						transition height 1s ease
+			.one
+				background #4884c6
+				span.bottom
+					background #24344e
+			.two
+				background #24344e
+				span
+					background #4884c6
 		p.catalogos
 			color txt_color
 			font-size 1.1em
@@ -523,7 +580,11 @@ body
 				line-height 1.5em
 		.productos
 			position relative
-			background transparent url(/images/barriles-mid-size.jpg) no-repeat right top
+			img.logo-quimicoga
+				margin 30px auto 0 auto
+				width 250px
+				height auto
+				display inline-block
 			h2
 				font-size 1.8em
 			ul
@@ -532,7 +593,6 @@ body
 					padding-top 2px
 			p
 				font-size 1.2em
-				width 55%
 			figure
 				display block
 				height auto
@@ -667,7 +727,6 @@ body
 		.productos
 			position relative
 			overflow hidden
-			background transparent url(/images/barriles-big-size.jpg) no-repeat right top
 			h2
 				font-size 2em
 				margin-top 40px
@@ -685,6 +744,14 @@ body
 				font-size 1.9em
 				text-align center
 				margin-top 40px
+			.laboratorio
+				.btn-view-pdfs
+					p
+						height 110px
+			img.logo-quimicoga
+				margin-top 30px
+				margin-bottom 30px
+				width 300px
 		.angle
 			height 210px
 			.container
@@ -832,11 +899,24 @@ body
 		.prods
 		.more
 			display none
+		.productos
+			background transparent url(/images/barriles-big-size.jpg) no-repeat right top
+			p.text
+				width 55%
+				padding-bottom 180px
+			.laboratorio
+				.btn-view-pdfs
+					p
+						height 80px
 		.productos .blocks-container
 			display block
 			padding-bottom 20px
 		.buscamos
 			margin-top -100px
+		/*QUIMICOGA*/
+		.logo-quimicoga
+			margin-top 20px
+			
 		.mapa
 			a
 				.sm
