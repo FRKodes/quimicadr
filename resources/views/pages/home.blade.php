@@ -20,7 +20,7 @@
 		</div>
 		<div class="item three">
 			<p class="header">Productos de la más alta calidad</p>
-			<p class="text">Nuestros productos cuentan con certificados reconocidos mundialmente</p>
+			<p class="text">Nuestros productos cuentan con certificados de calidad</p>
 			<span class="icon-02"></span>
 		</div>
 	</div>
@@ -42,7 +42,15 @@
 				<h2>MISIÓN</h2>
 				<div class="inner-container">
 					<figure class="image"><img src="images/imagen-mision.png" width="350" height="350" alt="mision image"></figure>
-					<p>Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.</p>
+					<p>
+						Como empresa "Industria Química DR" tiene la misión de solucionar las necesidades y problemas de nuestros clientes  mediante un servicio personalizado, nuestros esfuerzos están enfocados al sector industrial, hotelero y restaurantero.
+						<br><br>
+						<b>Nuestros compromisos:</b> <br>
+							- Precios competitivos <br>
+							- Servicio técnico personalizado <br>
+							- Atención inmediata <br>
+					</p>
+
 				</div>
 			</div>
 			<div class="item vision">
@@ -114,13 +122,11 @@
 				<img src="images/logotipo-quimicoga.jpg" class="logo-quimicoga" alt="logotipo quimicoga">
 			</div>
 			<p class="text">
-				Estamos comprometidos con el servicio y sabemos
-				que la asesoría es fundamental para la mejora de
-				los procesos de nuestros clientes.
+				Estamos comprometidos con el servicio y sabemos que la asesoría es fundamental para la mejora de los procesos de nuestros clientes.
 				<br><br>
-				Por ello en nuestro departamento de Proyectos
-				de Limpieza Industrial, QuimiCogaDR, desarrolla-
-				mos productos de la más alta calidad.
+				Contamos con nuestra propia filial, Quimicoga DR, dónde fabricamos productos de Limpieza Institucional, así como del sector automotriz, Cocina y Lavandería.
+				<br><br>
+				<a href="pdf/quimicoga-dr.pdf" target="_blank">Ver presentación de QuimiCoga DR</a>
 			</p>
 		</div>
 	</div>
@@ -168,6 +174,7 @@
 							</li>
 							
 							<li><a target="_blank" href="pdf/generales/10-quimicos-generales.pdf">- Químicos generales.</a></li>
+							<li><a target="_blank" href="pdf/generales/productos-no-formulados.pdf">- No formulados.</a></li>
 						</ul>
 					</div>
 				</div>

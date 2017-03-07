@@ -11,7 +11,7 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#inicio">Home</a></li>
-				<li><a href="#acercade">Acerca de</a></li>
+				<li><a href="#acercade">Nosotros</a></li>
 				<li><a href="#productos">Productos</a></li>
 				<li><a href="#certificados">Certificados</a></li>
 				<li><a href="#contacto">Contacto</a></li>
