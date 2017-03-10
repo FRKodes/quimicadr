@@ -242,9 +242,12 @@ body .slick-dots li.slick-active button:before {
   color: #fff;
 }
 body .about {
-  background: transparent url("/images/quimica-imagen-mini.jpg") no-repeat right 200px;
   overflow: hidden;
   padding-top: 20px;
+}
+body .about .col-xs-12 {
+  padding-bottom: 20px;
+  padding-top: 40px;
 }
 body .about h2 {
   font-size: 1.6em;
@@ -730,9 +733,6 @@ body footer figure img {
   body .home-slider .item {
     padding-top: 140px;
   }
-  body .about {
-    background: transparent url("/images/quimica-imagen-mid.jpg") no-repeat right 120px;
-  }
   body .about ul {
     margin: 40px auto 300px auto;
     padding: 0;
@@ -904,7 +904,11 @@ body footer figure img {
     padding: 40px;
   }
   body .about {
-    background: transparent url("/images/quimica-imagen-mid.jpg") no-repeat right 150px;
+    background: transparent url("/images/quimica-imagen-mid.jpg") no-repeat right 170px;
+  }
+  body .about .col-sm-8 {
+    padding-bottom: 100px;
+    padding-top: 60px;
   }
   body .about h2 {
     font-size: 2em;
@@ -1072,6 +1076,10 @@ body footer figure img {
   }
   body .home-slider .item p.text {
     width: 50%;
+  }
+  body .about .col-sm-8 {
+    font-size: 1.1em;
+    padding-top: 50px;
   }
   body .about h2,
   body .about ul {

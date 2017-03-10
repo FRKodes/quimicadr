@@ -27,15 +27,16 @@
 </section>
 
 <section class="about" id="acercade">
-	<h2>
-		Estamos comprometidos con siempre ofrecer:
-	</h2>
-
-	<ul>
-		<li>- Precios competitivos</li>
-		<li>- Servicio técnico personalizado</li>
-		<li>- Atención inmediata</li>
-	</ul>
+	<div class="container">
+		<div class="col-xs-12 col-sm-8">
+			<p>
+				Somos una Empresa 100% mexicana con capital tapatío, dedicada a la distribución de productos químicos, dirigido al sector industrial, alimenticio, hotelero y automotriz. Surgió en el año 2009 iniciando operaciones en Jalisco y cumpliendo las necesidades de nuestros clientes.
+			</p>
+			<p>
+				Con nuestra experiencia y talento en el rubro, ofrecemos capacitación constante al personal asignado por nuestros clientes para su buena aplicación en campo, optimización de recursos y nuevos proyectos dentro de la empresa. Nuestros productos están garantizados y certificados ya que nos respaldan proveedores con gran prestigio y larga trayectoria con la mas alta calidad en vanguardia y exigencia del mercado. En el 2016 se incorporo nuestra filial productora QuimiCOGA DR para la fabricación de productos químicos con el fin de  mejorar siempre el servicio a nuestros clientes y mantener una ventaja competitiva.
+			</p>
+		</div>
+	</div>
 	<div class="blue-container">
 		<div class="about-slider">
 			<div class="item">
@@ -137,10 +138,10 @@
 
 			<div class="col-xs-12 white-back">
 				<div class="row">
+					<div class="col-xs-12 text-center"><h3>Industrial</h3><br></div>
 					<div class="col-sm-6">
 						<ul class="product-list">
-							<li><a target="_blank" href="pdf/generales/01-02-lubricantes-para-transportador-de tablillas.pdf">- Lubricantes para transportador de tablillas, sistema en seco para Tetra Pack y Pet.</a></li>
-							<li><a target="_blank" href="pdf/generales/01-02-lubricantes-para-transportador-de tablillas.pdf">- Lubricantes para transportador de tablillas de naturaleza orgánico</a></li>
+							<li><a target="_blank" href="pdf/generales/01-02-lubricantes-para-transportador-de tablillas.pdf">- Lubricante para transportador de tablillas, de naturaleza orgánico y sistema en seco para Tetra Pack y Pet.</a></li>
 							<li><a target="_blank" href="pdf/generales/03-aditivos-para-lavado-de-botella.pdf">- Aditivos para lavado de botella</a></li>
 							<li><a target="_blank" href="pdf/generales/04-detergentes-de-lavado-de-garrafon.pdf">- Detergentes para lavado de garrafón</a></li>
 							<li><a target="_blank" href="pdf/generales/05-06-detergentes-acidos-y-alcalinos-para-cip.pdf">- Detergentes Alcalinos para CIP</a>
@@ -149,9 +150,8 @@
 							   		<li>· Alcalinos clorados.</li>
 								</ul>
 							</li>
-							<li><a href="#">- Detergentes ácidos para CIP</a></li>
+							<li>- Desinfectantes</li>
 						</ul>
-						
 					</div>
 					<div class="col-sm-6">
 						<ul class="product-list">
@@ -163,16 +163,6 @@
 								   <li>· Cuaternarios de amonio.</li>
 								</ul>
 							</li>
-							
-							<li>- Desinfectantes</li>
-							 
-							<li>- Productos de alta espuma
-								<ul>
-								   <li>· Alcalinos</li>
-								   <li>· Ácidos</li>
-								</ul>
-							</li>
-							
 							<li><a target="_blank" href="pdf/generales/10-quimicos-generales.pdf">- Químicos generales.</a></li>
 							<li><a target="_blank" href="pdf/generales/productos-no-formulados.pdf">- No formulados.</a></li>
 						</ul>
@@ -187,22 +177,13 @@
 					
 					<div class="col-sm-6 ">
 						<div class="btn-view-pdfs one">
-								<p>Productos enfocados en el sector institucional, hotelero, restaurantero, escolar y limpieza de oficinas.</p>
+								<p>Sector Institucional</p>
 								<ul class="limpieza disappeared">
-									<li><a target="_blank" href="pdf/limpieza/01-productos-para-lavanderias-hospitales-y-hoteles.pdf">- Productos para lavanderias hospitales y hoteles</a></li>
-									<li><a target="_blank" href="pdf/limpieza/09-productos-quimicos para-tratamiento-de-aguas.pdf">- Productos quimicos para tratamiento de aguas</a></li>
-									<li><a target="_blank" href="pdf/limpieza/catalogo-lavanderia.pdf">- Catálogo lavanderia</a></li>
-									<li><a target="_blank" href="pdf/limpieza/catalogo-prouctos-para-aguas.pdf">- Catálogo prouctos para aguas</a></li>
-
-
-									{{-- <li><a class="" target="_blank" href="pdf/limpieza/lubricantes-para-transportador-de-tablillas.pdf">- Lubricantes para transportador de tablillas</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/aditivos-para-lavado-de-botella.pdf">- Aditivos para lavado de botella</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/detergentes-de-lavado-de-garrafon.pdf">- Detergentes de lavado de garrafon</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/detergentes-acidos-y-alcalinos-para-cip.pdf">- Detergentes acidos y alcalinos para cip</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/sanitizantes-para-cip.pdf">- Sanitizantes para cip</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/espumas-sanitizantes.pdf">- Espumas sanitizantes</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/quimicos-generales.pdf">- Quimicos generales</a></li>
-									<li><a class="" target="_blank" href="pdf/limpieza/productos-quimicos-para-tratamiento-de-aguas.pdf">- Productos quimicos para tratamiento de aguas</a></li> --}}
+									<li><a target="_blank" href="pdf/limpieza/01-productos-para-lavanderias-hospitales-y-hoteles.pdf">- Productos para lavanderías hospitales y hoteles</a></li>
+									<li><a target="_blank" href="pdf/limpieza/09-productos-quimicos para-tratamiento-de-aguas-new.pdf">- Productos químicos para tratamiento de aguas</a></li>
+									<li><a target="_blank" href="pdf/limpieza/catalogo-lavanderia.pdf">- Catálogo lavandería</a></li>
+									<li><a target="_blank" href="pdf/alimentos-y-cocina/catalogo-cocina.pdf">- Catálogo cocina</a></li>
+									<li><a target="_blank" href="pdf/alimentos-y-cocina/desengrasantes-desincrustantes-detergentes-multiusos.pdf">- Desengrasantes desincrustantes detergentes multiusos</a></li>
 								</ul>
 							<a class="more-btn" href="#nothin" list-modificator="limpieza">
 								<span class="bottom">Ver más</span>
@@ -211,12 +192,11 @@
 					</div>
 					<div class="col-sm-6">
 						<div class="btn-view-pdfs two">
-								<p>Productos enfocados en el sector productor y empacadora de alimentos</p>
-								<ul class="alimentos disappeared">
-									<li><a target="_blank" href="pdf/alimentos-y-cocina/catalogo-cocina.pdf">- Catálogo cocina</a></li>
-									<li><a target="_blank" href="pdf/alimentos-y-cocina/desengrasantes-desincrustantes-detergentes-multiusos.pdf">- Desengrasantes desincrustantes detergentes multiusos</a></li>
+								<p>Sector Automotriz</p>
+								<ul class="automotriz disappeared">
+									<li><a target="_blank" href="pdf/catalogo-automotriz.pdf">- Catálogo automotriz</a></li>
 								</ul>
-							<a class="more-btn" href="#nothin" list-modificator="alimentos">
+							<a class="more-btn" href="#nothin" list-modificator="automotriz">
 								<span class="bottom">Ver más</span>
 							</a>
 						</div>
